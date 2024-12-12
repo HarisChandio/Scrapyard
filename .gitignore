@@ -1,0 +1,6 @@
+info-env
+db.sqlite3
+info_scrapper/__pycache__
+crawler/__pycache__
+crawler/migrations
+
